@@ -1,2 +1,3 @@
 pag. "testo errato" - "testo corretto"
 33 "3.09" - "3.04"
+43 "garantisce la corrispondenza tra variabile independente e variabile indipendente" - "garantisce la corrispondenza tra variabile dipendente e variabile indipendente"
