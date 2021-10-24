@@ -1,4 +1,5 @@
-# pag. "testo errato" - "testo corretto"
+pag. "testo errato" - "testo corretto"
+
 33 "3.09" - "3.04"
 43 "garantisce la corrispondenza tra variabile independente e variabile indipendente" - "garantisce la corrispondenza tra variabile dipendente e variabile indipendente"
-148 "fig. 5.5 [...] la stima del parametro alpha (a destra) o la semplice media dei campioni (a sinistra)" - "fig. 5.5 [...] la stima del parametro alpha (a sinistra) o la semplice media dei campioni (a destra)"
+148 "figura 5.5 [...] la stima del parametro alpha (a destra) o la semplice media dei campioni (a sinistra)" - "figura 5.5 [...] la stima del parametro alpha (a sinistra) o la semplice media dei campioni (a destra)"
