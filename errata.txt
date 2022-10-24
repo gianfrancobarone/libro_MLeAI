@@ -1,6 +1,6 @@
 pag. "testo errato" - "testo corretto"
 
-21 i pedici dei regressori sono tutti 1 e non 1,2,...,p cambiano solo i pedici dei parametri theta
+21 Descrizione errore: i pedici dei regressori sono tutti 1 e non 1,2,...,p cambiano solo i pedici dei parametri theta
 33 "3.09" - "3.04"
 43 "garantisce la corrispondenza tra variabile independente e variabile indipendente" - "garantisce la corrispondenza tra variabile dipendente e variabile indipendente"
 92 il il della formula (3.41) deve utilizzare il grassetto e una dimensione minore per i caratteri, come gli altri.
